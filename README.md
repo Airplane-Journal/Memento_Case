@@ -9,8 +9,8 @@ Plain SVG file optimized for the Glowforge Pro at my local library makerspace.
 ## Assembly
 
 For 1/8" thick acrylic,  
-use 4 x 6mm M3 screws to secure front cover,  
-and 4 x 8mm M3 screws plus 8 to 12 x M3 washers as spacers for the back cover.  
+- use 4 x 6mm M3 screws to secure front cover  
+- and 4 x 8mm M3 screws plus 8 to 12 x M3 washers as spacers for the back cover  
 
 Optionally:
 
